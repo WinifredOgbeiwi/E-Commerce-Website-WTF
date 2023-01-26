@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
             <a href="/">REACT ROUTER</a>
           </li>
         </ul>
+        <Footer/>
       </div>
     </div>
   );
